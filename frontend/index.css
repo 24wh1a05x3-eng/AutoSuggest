@@ -1,0 +1,55 @@
+h1{
+    color: #32bde7;
+
+}
+/*property: value*/
+#home-intro{
+    text-align: center;
+    border: 3px solid #f3d541;
+    
+}
+#home-intro:hover{
+    background-color: #ffe398;
+}
+
+
+#p2{
+    color: #2574f3;
+}
+#nav {
+    text-align: center;
+    background-color: #f5736f;
+    height: 25px;
+    padding-top: 5px;
+}
+#nav a{
+    margin:0px 5px;
+    text-decoration: none;
+    color:white;
+}
+#card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 3px auto;
+}
+#card-img{
+    display: flex;
+    justify-content: center;
+}
+img{
+  width: 300px;
+  height: 300px;
+}
+
+#action{
+  text-align: center;
+  border: 3px solid black;
+  margin : 10px;
+  height: 500px;
+}
+button{
+    width:100%;
+}
